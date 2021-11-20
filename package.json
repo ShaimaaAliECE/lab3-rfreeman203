@@ -1,0 +1,24 @@
+{
+  "name": "lab3-rfreeman203-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab3-rfreeman203.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab3-rfreeman203/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab3-rfreeman203#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
